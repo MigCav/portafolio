@@ -1,0 +1,47 @@
+.div_blur{
+    background-size: cover;
+    backdrop-filter: blur(10px);
+
+}
+
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+.imagen {
+    width: 220px; 
+    height: 200px; 
+    margin-left: 30px; 
+  }
+  
+.texto {
+    font-size: 16px;
+    font-family: Arial, sans-serif; 
+    color: white;
+  }
+  
+  .imagen_pequeña{
+    width: 2500px; 
+    height: 100px; 
+     
+  }
+
+.espaciobot{
+    margin-bottom: 10px;
+}
+
+.espaciotop{
+  margin-top: 20px;
+}
+
+.subrayado{
+  text-decoration: underline;
+}
+
+.margenizq{
+  margin-left: 20px;
+}
+
